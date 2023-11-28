@@ -1,0 +1,8 @@
+C:\Users\TGSUser070\source\repos\Nullabe\Nullabe\obj\Debug\Nullabe.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\source\repos\Nullabe\Nullabe\obj\Debug\Nullabe.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\source\repos\Nullabe\Nullabe\obj\Debug\Nullabe.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\source\repos\Nullabe\Nullabe\bin\Debug\Nullabe.exe.config
+C:\Users\TGSUser070\source\repos\Nullabe\Nullabe\bin\Debug\Nullabe.exe
+C:\Users\TGSUser070\source\repos\Nullabe\Nullabe\bin\Debug\Nullabe.pdb
+C:\Users\TGSUser070\source\repos\Nullabe\Nullabe\obj\Debug\Nullabe.exe
+C:\Users\TGSUser070\source\repos\Nullabe\Nullabe\obj\Debug\Nullabe.pdb

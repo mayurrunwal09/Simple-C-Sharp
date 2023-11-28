@@ -1,0 +1,16 @@
+C:\Users\TGSUser070\Desktop\Mayur\List1\List1\bin\Debug\List1.exe.config
+C:\Users\TGSUser070\Desktop\Mayur\List1\List1\bin\Debug\List1.exe
+C:\Users\TGSUser070\Desktop\Mayur\List1\List1\bin\Debug\List1.pdb
+C:\Users\TGSUser070\Desktop\Mayur\List1\List1\obj\Debug\List1.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\Mayur\List1\List1\obj\Debug\List1.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\Mayur\List1\List1\obj\Debug\List1.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\Mayur\List1\List1\obj\Debug\List1.exe
+C:\Users\TGSUser070\Desktop\Mayur\List1\List1\obj\Debug\List1.pdb
+C:\Users\TGSUser070\Desktop\html\List1\List1\bin\Debug\List1.exe.config
+C:\Users\TGSUser070\Desktop\html\List1\List1\bin\Debug\List1.exe
+C:\Users\TGSUser070\Desktop\html\List1\List1\bin\Debug\List1.pdb
+C:\Users\TGSUser070\Desktop\html\List1\List1\obj\Debug\List1.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\html\List1\List1\obj\Debug\List1.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\html\List1\List1\obj\Debug\List1.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\html\List1\List1\obj\Debug\List1.exe
+C:\Users\TGSUser070\Desktop\html\List1\List1\obj\Debug\List1.pdb

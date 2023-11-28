@@ -1,0 +1,16 @@
+C:\Users\TGSUser070\Desktop\Mayur\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\TGSUser070\Desktop\Mayur\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\TGSUser070\Desktop\Mayur\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\TGSUser070\Desktop\Mayur\Stack\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\Mayur\Stack\Stack\obj\Debug\Stack.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\Mayur\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\Mayur\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\TGSUser070\Desktop\Mayur\Stack\Stack\obj\Debug\Stack.pdb
+C:\Users\TGSUser070\Desktop\html\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\TGSUser070\Desktop\html\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\TGSUser070\Desktop\html\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\TGSUser070\Desktop\html\Stack\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\html\Stack\Stack\obj\Debug\Stack.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\html\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\html\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\TGSUser070\Desktop\html\Stack\Stack\obj\Debug\Stack.pdb

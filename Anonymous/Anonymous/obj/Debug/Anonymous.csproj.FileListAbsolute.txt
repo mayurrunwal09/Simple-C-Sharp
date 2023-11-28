@@ -1,0 +1,8 @@
+C:\Users\TGSUser070\source\repos\Anonymous\Anonymous\obj\Debug\Anonymous.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\source\repos\Anonymous\Anonymous\obj\Debug\Anonymous.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\source\repos\Anonymous\Anonymous\obj\Debug\Anonymous.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\source\repos\Anonymous\Anonymous\bin\Debug\Anonymous.exe.config
+C:\Users\TGSUser070\source\repos\Anonymous\Anonymous\bin\Debug\Anonymous.exe
+C:\Users\TGSUser070\source\repos\Anonymous\Anonymous\bin\Debug\Anonymous.pdb
+C:\Users\TGSUser070\source\repos\Anonymous\Anonymous\obj\Debug\Anonymous.exe
+C:\Users\TGSUser070\source\repos\Anonymous\Anonymous\obj\Debug\Anonymous.pdb

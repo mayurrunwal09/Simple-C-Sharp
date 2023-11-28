@@ -1,0 +1,8 @@
+C:\Users\TGSUser070\Desktop\Mayur\list\list\bin\Debug\list.exe.config
+C:\Users\TGSUser070\Desktop\Mayur\list\list\bin\Debug\list.exe
+C:\Users\TGSUser070\Desktop\Mayur\list\list\bin\Debug\list.pdb
+C:\Users\TGSUser070\Desktop\Mayur\list\list\obj\Debug\list.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\Mayur\list\list\obj\Debug\list.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\Mayur\list\list\obj\Debug\list.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\Mayur\list\list\obj\Debug\list.exe
+C:\Users\TGSUser070\Desktop\Mayur\list\list\obj\Debug\list.pdb

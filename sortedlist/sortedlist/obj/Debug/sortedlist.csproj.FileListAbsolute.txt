@@ -1,0 +1,16 @@
+C:\Users\TGSUser070\Desktop\Mayur\sortedlist\sortedlist\bin\Debug\sortedlist.exe.config
+C:\Users\TGSUser070\Desktop\Mayur\sortedlist\sortedlist\bin\Debug\sortedlist.exe
+C:\Users\TGSUser070\Desktop\Mayur\sortedlist\sortedlist\bin\Debug\sortedlist.pdb
+C:\Users\TGSUser070\Desktop\Mayur\sortedlist\sortedlist\obj\Debug\sortedlist.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\Mayur\sortedlist\sortedlist\obj\Debug\sortedlist.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\Mayur\sortedlist\sortedlist\obj\Debug\sortedlist.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\Mayur\sortedlist\sortedlist\obj\Debug\sortedlist.exe
+C:\Users\TGSUser070\Desktop\Mayur\sortedlist\sortedlist\obj\Debug\sortedlist.pdb
+C:\Users\TGSUser070\Desktop\html\sortedlist\sortedlist\bin\Debug\sortedlist.exe.config
+C:\Users\TGSUser070\Desktop\html\sortedlist\sortedlist\bin\Debug\sortedlist.exe
+C:\Users\TGSUser070\Desktop\html\sortedlist\sortedlist\bin\Debug\sortedlist.pdb
+C:\Users\TGSUser070\Desktop\html\sortedlist\sortedlist\obj\Debug\sortedlist.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\html\sortedlist\sortedlist\obj\Debug\sortedlist.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\html\sortedlist\sortedlist\obj\Debug\sortedlist.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\html\sortedlist\sortedlist\obj\Debug\sortedlist.exe
+C:\Users\TGSUser070\Desktop\html\sortedlist\sortedlist\obj\Debug\sortedlist.pdb

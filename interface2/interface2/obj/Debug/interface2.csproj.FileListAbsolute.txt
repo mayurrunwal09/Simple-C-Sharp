@@ -1,0 +1,8 @@
+C:\Users\TGSUser070\Desktop\Mayur\interface2\interface2\bin\Debug\interface2.exe.config
+C:\Users\TGSUser070\Desktop\Mayur\interface2\interface2\bin\Debug\interface2.exe
+C:\Users\TGSUser070\Desktop\Mayur\interface2\interface2\bin\Debug\interface2.pdb
+C:\Users\TGSUser070\Desktop\Mayur\interface2\interface2\obj\Debug\interface2.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\Desktop\Mayur\interface2\interface2\obj\Debug\interface2.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\Desktop\Mayur\interface2\interface2\obj\Debug\interface2.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\Desktop\Mayur\interface2\interface2\obj\Debug\interface2.exe
+C:\Users\TGSUser070\Desktop\Mayur\interface2\interface2\obj\Debug\interface2.pdb

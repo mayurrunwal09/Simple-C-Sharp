@@ -1,0 +1,8 @@
+C:\Users\TGSUser070\source\repos\implicit\implicit\obj\Debug\implicit.csproj.AssemblyReference.cache
+C:\Users\TGSUser070\source\repos\implicit\implicit\obj\Debug\implicit.csproj.SuggestedBindingRedirects.cache
+C:\Users\TGSUser070\source\repos\implicit\implicit\obj\Debug\implicit.csproj.CoreCompileInputs.cache
+C:\Users\TGSUser070\source\repos\implicit\implicit\bin\Debug\@implicit.exe.config
+C:\Users\TGSUser070\source\repos\implicit\implicit\bin\Debug\@implicit.exe
+C:\Users\TGSUser070\source\repos\implicit\implicit\bin\Debug\@implicit.pdb
+C:\Users\TGSUser070\source\repos\implicit\implicit\obj\Debug\@implicit.exe
+C:\Users\TGSUser070\source\repos\implicit\implicit\obj\Debug\@implicit.pdb
